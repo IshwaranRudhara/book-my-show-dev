@@ -1,5 +1,5 @@
 # BookMyShow-Clone CONTRIBUTING.md
-   ![BookMyShow-Clone]()
+   ![BookMyShow-Clone](./src/PNG/BOOK-My-Show-png.png)
 
 
 ## ⭐ First time contributing?

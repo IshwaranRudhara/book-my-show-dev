@@ -5,10 +5,15 @@ Clone for Book My Show ( online movie tickets booking site ) built with ReactJS
 
 ## Table of Contents
 
-- [General Info](#general-info)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Contributing Guidelines]()
+- [book-my-show-dev  🎬](#book-my-show-dev--)
+  - [Table of Contents](#table-of-contents)
+  - [General Info](#general-info)
+  - [Technologies](#technologies)
+      - [Languages, technologies and tools used:](#languages-technologies-and-tools-used)
+  - [Setup](#setup)
+  - [Status](#status)
+  - [Contributing guidelines](#contributing-guidelines)
+  - [Contributers](#contributers)
 
 ## General Info
 
@@ -46,7 +51,7 @@ To be updated!
 ## Contributing guidelines
 
 
-If you are new to OpenSource please checkout out our [Contributing Guidelines]() to help you get started.
+If you are new to OpenSource please checkout out our [Contributing Guidelines](https://github.com/IshwaranRudhara/book-my-show-dev/blob/main/book-my-show-clone-CONTRIBUTING.md) to help you get started.
 
 ## Contributers
 
